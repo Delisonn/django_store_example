@@ -1,0 +1,50 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Aadidas Originals Black Monogram Hoodie",
+      "description": "Soft fabric for sweatshirts. Style and comfort is a way of life.",
+      "price": "6090.00",
+      "quantity": 10,
+      "image": "products_images/Adidas-hoodie.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "The North Face blue jacket",
+      "description": "Smooth fabric. Waterproof coating. Lightweight and warm down fill.",
+      "price": "23725.00",
+      "quantity": 12,
+      "image": "products_images/Blue-jacket-The-North-Face.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "ASOS DESIGN oversized sports top in brown",
+      "description": "Plush material. Comfortable and soft.",
+      "price": "3390.00",
+      "quantity": 5,
+      "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Dr Martens 1461 Bex Black 3-Eye Platform Shoes",
+      "description": "Smooth leather upper. Natural material.",
+      "price": "13590.00",
+      "quantity": 8,
+      "image": "products_images/Black-Dr-Martens-shoes.png",
+      "category": 2
+    }
+  }
+]
