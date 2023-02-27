@@ -154,17 +154,13 @@ SOCIAL_AUTH_JSONFIELD_ENABLED = True
 SOCIAL_AUTH_URL_NAMESPACE = 'social'
 
 # Настройки для Facebook
-SOCIAL_AUTH_FACEBOOK_KEY  = '1020365489351518'
-SOCIAL_AUTH_FACEBOOK_SECRET  = '4ead41a5ec236861468356dcabe10e74'
+SOCIAL_AUTH_FACEBOOK_KEY  = '*************'
+SOCIAL_AUTH_FACEBOOK_SECRET  = '*************************'
 
-SOCIAL_AUTH_GITHUB_KEY = '1491e08c1ede848bcc85'
-SOCIAL_AUTH_GITHUB_SECRET = '253824c82f0639021124bda6984ac4f298e9aba1'
+SOCIAL_AUTH_GITHUB_KEY = '***********************'
+SOCIAL_AUTH_GITHUB_SECRET = '**************************'
 
-# Настройки для Вконтакте
-SOCIAL_AUTH_VK_APP_KEY = '51565307'
-SOCIAL_AUTH_VK_APP_SECRET = 'DOakjNuztLLbDm5H5yh7'
-# SOCIAL_AUTH_VK_APP_USER_MODE = 2
 
 # Настройки для Google
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '778430717068-8okfuq70d68mho9hgedm0t30fd1d515j.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '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'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '******************************************'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '*************************************'
